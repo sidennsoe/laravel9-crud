@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## <a href="https://github.com/dennsoe/crud-laravel9-rpl/blob/main/install.md">Installation </a>
+## <a href="https://github.com/dennsoe/laravel9-crud/blob/main/install.md">Installation </a>
 
 ## About Laravel
 
