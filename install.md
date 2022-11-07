@@ -19,7 +19,7 @@ VS Code : (<a href="https://code.visualstudio.com/download">Download disini</a>)
 1.Clone
 
 ```bash
-https://github.com/dennsoe/crud-laravel9-rpl.git
+git clone https://github.com/dennsoe/laravel9-crud.git
 ```
 
 ```bash
