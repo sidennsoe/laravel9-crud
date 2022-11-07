@@ -23,7 +23,7 @@ git clone https://github.com/dennsoe/laravel9-crud.git
 ```
 
 ```bash
-cd crud-laravel9-rpl
+cd laravel9-crud
 ```
 
 2.Install Dependensi
